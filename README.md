@@ -1,5 +1,5 @@
 # CMPT-201-Assignment-3-Winter-2025
-nmas amnf ak f
-af akjsfb askfb akbs f
-ADNKAJJDNAKS
-afnsdoandaon
+
+WELCOME TO ASSIGNMENT 3!
+
+Please test making changes to your local, pushing to origin/{yourName}, and then pushing to origin/main
